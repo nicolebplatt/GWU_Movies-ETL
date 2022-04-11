@@ -1,5 +1,5 @@
-#ratings.csv file too large
-ratings.csv
+#large csv files
+*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
