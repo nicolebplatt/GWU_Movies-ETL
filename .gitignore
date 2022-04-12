@@ -1,8 +1,8 @@
 #large/any csv files
 *.csv
 
-#DS store from Mac
-#.DS_Store
+#Adding config file
+config.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
